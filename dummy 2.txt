@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dummy data
 change
+=======
+dummy data2
+chnages
+>>>>>>> 0a1de950123ce2fa21471acde47640e534d48768
